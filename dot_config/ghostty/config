@@ -1,0 +1,4 @@
+keybind=cmd+enter=ignore
+keybind="cmd+enter=text:git status\n"
+
+font-feature=-calt

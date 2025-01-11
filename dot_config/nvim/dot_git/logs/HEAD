@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 1895e25d0c3287842a1d7b3f649faa85cc188136 Nick Cotton <nick.c.cotton@gmail.com> 1735727812 +0000	clone: from https://github.com/nickcotton/kickstart.nvim.git
+1895e25d0c3287842a1d7b3f649faa85cc188136 2c0069cd42b30e10d5f554c680ae2896180c9003 Nick Cotton <nick.c.cotton@gmail.com> 1735728502 +0000	commit: Commit lazy lock file after install
+2c0069cd42b30e10d5f554c680ae2896180c9003 2c0069cd42b30e10d5f554c680ae2896180c9003 Nick Cotton <nick.c.cotton@gmail.com> 1735741810 +0000	reset: moving to HEAD
+2c0069cd42b30e10d5f554c680ae2896180c9003 1895e25d0c3287842a1d7b3f649faa85cc188136 Nick Cotton <nick.c.cotton@gmail.com> 1735741825 +0000	reset: moving to HEAD~1
+1895e25d0c3287842a1d7b3f649faa85cc188136 1895e25d0c3287842a1d7b3f649faa85cc188136 Nick Cotton <nick.c.cotton@gmail.com> 1735741833 +0000	checkout: moving from master to add-lazy-lock
+1895e25d0c3287842a1d7b3f649faa85cc188136 9e82758f62f01ed37750deaed3147839434eaec4 Nick Cotton <nick.c.cotton@gmail.com> 1735741841 +0000	commit: Commit lazy lock file after install
+9e82758f62f01ed37750deaed3147839434eaec4 1895e25d0c3287842a1d7b3f649faa85cc188136 Nick Cotton <nick.c.cotton@gmail.com> 1735742211 +0000	checkout: moving from add-lazy-lock to master
+1895e25d0c3287842a1d7b3f649faa85cc188136 3d0ef52d49bdfe6a3cfdf300e187e6e41806af21 Nick Cotton <nick.c.cotton@gmail.com> 1735742213 +0000	pull: Fast-forward
