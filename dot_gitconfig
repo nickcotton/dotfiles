@@ -1,0 +1,22 @@
+# This is Git's per-user configuration file.
+[user]
+	email = nick.c.cotton@gmail.com
+	name = Nick Cotton
+# Please adapt and uncomment the following lines:
+#	name = Nick Cotton
+#	email = nick@Nicks-MacBook-Pro.local
+[push]
+	default = current
+
+[core]
+    pager = delta
+    editor = nvim
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    navigate = true  # use n and N to move between diff sections
+
+[merge]
+    conflictstyle = zdiff3
