@@ -12,3 +12,6 @@ dot_config/raycast/**
 dot_config/raycast/**/node_modules/**
 dot_config/raycast/**/dist/**
 dot_config/raycast/**/.cache/**
+
+# Neovim Lazy lock file
+dot_config/nvim/lazy-lock.json
