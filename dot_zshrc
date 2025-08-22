@@ -75,7 +75,12 @@ zstyle ':omz:directories' aliases no
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git git-extras)
 
-source $ZSH/oh-my-zsh.sh
+# Load OMZ safely
+if [ -r "$ZSH/oh-my-zsh.sh" ]; then
+  source "$ZSH/oh-my-zsh.sh"
+else
+  # Fallback: define a few common aliases if OMZ not available yet
+fi
 
 # User configuration
 

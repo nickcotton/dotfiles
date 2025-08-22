@@ -6,3 +6,17 @@
 1895e25d0c3287842a1d7b3f649faa85cc188136 9e82758f62f01ed37750deaed3147839434eaec4 Nick Cotton <nick.c.cotton@gmail.com> 1735741841 +0000	commit: Commit lazy lock file after install
 9e82758f62f01ed37750deaed3147839434eaec4 1895e25d0c3287842a1d7b3f649faa85cc188136 Nick Cotton <nick.c.cotton@gmail.com> 1735742211 +0000	checkout: moving from add-lazy-lock to master
 1895e25d0c3287842a1d7b3f649faa85cc188136 3d0ef52d49bdfe6a3cfdf300e187e6e41806af21 Nick Cotton <nick.c.cotton@gmail.com> 1735742213 +0000	pull: Fast-forward
+3d0ef52d49bdfe6a3cfdf300e187e6e41806af21 81669d2dfbdfd5dcff962487e88158a292b4c28b Nick Cotton <nick.c.cotton@gmail.com> 1737493323 +0000	commit: enable relative line numbers
+81669d2dfbdfd5dcff962487e88158a292b4c28b 626ee4edf9ff57ff8af3663c1034c0e6f7bfeb90 Nick Cotton <nick.c.cotton@gmail.com> 1737493470 +0000	commit: Enable emmet ls
+626ee4edf9ff57ff8af3663c1034c0e6f7bfeb90 c1cdc204ac17ae18f3660fb85eab365ddf0f390c Nick Cotton <nick.c.cotton@gmail.com> 1737493543 +0000	commit: Enable neo tree and autopairs plugins
+c1cdc204ac17ae18f3660fb85eab365ddf0f390c 6bb82ab8c8eb9c46b3b307bd8cc478c255927999 Nick Cotton <nick.c.cotton@gmail.com> 1737493605 +0000	commit: Oil
+6bb82ab8c8eb9c46b3b307bd8cc478c255927999 a85104cc8bdd95e56a6a8f401a05654317bde0b4 Nick Cotton <nick.c.cotton@gmail.com> 1737493611 +0000	commit: Lazygit
+a85104cc8bdd95e56a6a8f401a05654317bde0b4 2e2c04dd5ca8e662c50c664a58f35eff329d80d4 Nick Cotton <nick.c.cotton@gmail.com> 1737493618 +0000	commit: Alpha
+2e2c04dd5ca8e662c50c664a58f35eff329d80d4 e4581400cd7adb5021682d441ab877c39be70836 Nick Cotton <nick.c.cotton@gmail.com> 1737493627 +0000	commit: Package info plugin
+e4581400cd7adb5021682d441ab877c39be70836 a8175e94f9dbf1e78761424ade3a07b438a20758 Nick Cotton <nick.c.cotton@gmail.com> 1737493660 +0000	commit: Keymap for Oil
+a8175e94f9dbf1e78761424ade3a07b438a20758 34130a35854a5355a9eb324b7391816edbce21d8 Nick Cotton <nick.c.cotton@gmail.com> 1737493682 +0000	commit: Add none-ls
+34130a35854a5355a9eb324b7391816edbce21d8 42f16f6492ecab4ac858f9a048fa350b9e9c4032 Nick Cotton <nick.c.cotton@gmail.com> 1737493730 +0000	commit: Add custom plugins from dir
+42f16f6492ecab4ac858f9a048fa350b9e9c4032 b60d4e47515c4e414b2e29e65e46e639af79d124 Nick Cotton <nick.c.cotton@gmail.com> 1737493769 +0000	commit: Vue and ESLint formatting with mason and conform
+b60d4e47515c4e414b2e29e65e46e639af79d124 b581b43e82795c87b94f786b00ea638181939541 Nick Cotton <nick.c.cotton@gmail.com> 1737493794 +0000	commit: lazy-lock update
+b581b43e82795c87b94f786b00ea638181939541 1407726933aad7865d1805e634ec08ab930e76e2 Nick Cotton <nick.c.cotton@gmail.com> 1737919692 +0000	commit: move none ls, set nerd font to true
+1407726933aad7865d1805e634ec08ab930e76e2 f5de548c65e8b8a7916dc77f6f9f6227c60c0b23 Nick Cotton <nick.c.cotton@gmail.com> 1737919702 +0000	commit: plugin updates

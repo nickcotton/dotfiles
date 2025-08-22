@@ -1,0 +1,14 @@
+.DS_Store:
+
+# Raycast: ignore everything by default…
+dot_config/raycast/**
+
+# …but keep *your* Script Commands (adjust path if you use a different dir)
+!dot_config/raycast/scripts/**
+# Optional: keep just your own curated subfolder
+# !dot_config/raycast/scripts/mine/**
+
+# Double-ignore heavy stuff if it ever slips in
+dot_config/raycast/**/node_modules/**
+dot_config/raycast/**/dist/**
+dot_config/raycast/**/.cache/**
